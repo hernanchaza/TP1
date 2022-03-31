@@ -1,0 +1,1 @@
+Pull request es una funcionalidad de Github (en Gitlab llamada merge request y en Bitbucket push request, en la que un colaborador pide que revisen sus cambios antes de hacer merge a una rama, normalmente master (ahora conocida como main).
